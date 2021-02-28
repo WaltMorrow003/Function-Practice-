@@ -11,7 +11,7 @@
  */
 function length(string) {
     // YOUR CODE BELOW HERE //
-    
+   console.log(string.length)  
 
     // YOUR CODE ABOVE HERE //
 }
@@ -21,7 +21,7 @@ function length(string) {
  */
 function toLowerCase(string) {
     // YOUR CODE BELOW HERE //
- 
+   return ("MUDA MUDA")
 
     // YOUR CODE ABOVE HERE //
 }
@@ -31,7 +31,7 @@ function toLowerCase(string) {
  */
 function toUpperCase(string) {
     // YOUR CODE BELOW HERE //
-
+   return ("yarundana ima kokode")
 
     // YOUR CODE ABOVE HERE //
 }
@@ -51,7 +51,7 @@ function toUpperCase(string) {
  */
 function toDashCase(string) {
     // YOUR CODE BELOW HERE //
-
+   return ("My World")
        
     // YOUR CODE ABOVE HERE //
 }
@@ -70,7 +70,7 @@ function toDashCase(string) {
  */
 function beginsWith(string, char) {
     // YOUR CODE BELOW HERE //
-       
+   return ("Shazam", "s")    
        
     // YOUR CODE ABOVE HERE //
 }
@@ -89,7 +89,7 @@ function beginsWith(string, char) {
  */
 function endsWith(string, char) {
     // YOUR CODE BELOW HERE //
-        
+        return("Hulk", "k")
 
     // YOUR CODE ABOVE HERE //
 }
@@ -101,7 +101,7 @@ function endsWith(string, char) {
  */
 function concat(stringOne, stringTwo) {
     // YOUR CODE BELOW HERE //
-
+   return("Goku is" + "stronger than Naruto")
 
     // YOUR CODE ABOVE HERE //
 }
@@ -118,7 +118,7 @@ function concat(stringOne, stringTwo) {
  */
 function longest(stringOne, stringTwo) {
     // YOUR CODE BELOW HERE //
-    
+    return longest("Nami", "Robin")
    
     // YOUR CODE ABOVE HERE //
 }
@@ -132,7 +132,7 @@ function longest(stringOne, stringTwo) {
  */
 function sortAscending(stringOne, stringTwo) {
     // YOUR CODE BELOW HERE //
-
+   return("a"-"b")
 
     // YOUR CODE ABOVE HERE //
 }
@@ -147,7 +147,7 @@ function sortAscending(stringOne, stringTwo) {
  */
 function sortDescending(stringOne, stringTwo) {
     // YOUR CODE BELOW HERE //
-
+   return ("a" + "b")
 
     // YOUR CODE ABOVE HERE //
 }
